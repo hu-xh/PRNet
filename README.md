@@ -7,9 +7,7 @@ Camouflaged Object Detection (COD) is a challenging visual task due to its compl
 ## Network Architecture
 ![fig1.png](figs/fig1.png)
 
-## Results and Saliency maps
-We perform quantitative comparisons and qualitative comparisons with 12 RGB-D SOD
-methods on six RGB-D datasets.
+## Quantitative Evaluation Results and  Qualitative Evaluation Results:
 ![fig2.jpg](figs/fig2.jpg)
 ![fig3.jpg](figs/fig3.jpg)
 
