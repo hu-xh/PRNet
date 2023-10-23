@@ -19,11 +19,10 @@ Camouflaged Object Detection (COD) is a challenging visual task due to its compl
 
 ### Pretrained Model
 Download the following `pth` and put it into main folder
-- [Swin-B](https://pan.baidu.com/s/1VkWOrdrw3RHOp0Ir5rLGgw) with the fetch code:ja95.
+- [SMT-t](https://pan.baidu.com/s) with the fetch code:ja95.
 
 ### Datasets
-- [Train Datasets](https://pan.baidu.com/s/148IZcZAB5qSSWBJYzhvoYw) with the fetch code:1234.
-- [Test Datasets](https://pan.baidu.com/s/18dbNDpkV7hV43UOW7v8huA) with the fetch code:1234.
+- [Datasets](https://pan.baidu.com/s) with the fetch code:1234.
 
 ### Results
 You can download the tested results map at - [Baidu Pan link] (https://pan.baidu.com/s/1PlmqAvlAwSzsH2YGR4VzKQ) with the fetch code:dq2w.
