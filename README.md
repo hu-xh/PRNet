@@ -25,9 +25,9 @@ Download the following `pth` and put it into main folder
 - [Datasets](https://pan.baidu.com/s/1V9VEMN5RChGvl42nU6FhSA) with the fetch code:1234.
 
 ### Results
-You can download the tested results map at - [Baidu Pan link] (https://pan.baidu.com/s/1TpYsv101RmmTVBARTFEugw) with the fetch code:1234.
+You can download the tested results map at - [Baidu Pan link](https://pan.baidu.com/s/1TpYsv101RmmTVBARTFEugw) with the fetch code:1234.
 
-You can download the results pth - [Baidu Pan link] (https://pan.baidu.com/s/) with the fetch code:50lu.
+You can download the results pth - [Baidu Pan link](https://pan.baidu.com/s/) with the fetch code:50lu.
 
 ### Contact
 Feel free to send e-mails to me (1558239392@qq.com).
