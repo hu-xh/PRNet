@@ -1,4 +1,5 @@
 # PRNet
+The paper was published by the IEEE Transactions on Circuits and Systems for Video Technology on January 2, 2024. The paper link is: - [Link](https://ieeexplore.ieee.org/document/10379651)
 # **Efficient Camouflaged Object Detection Network Based on Global Localization Perception and Local Guidance Refinement**
 
 ## PRNet
