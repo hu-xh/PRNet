@@ -30,5 +30,23 @@ You can download the tested results map at - [Baidu Pan link](https://pan.baidu.
 
 You can download the results pth - [Baidu Pan link](https://pan.baidu.com/s/1baBE1ezwIwTzrH4KSitV3w) with the fetch code:1234.
 
+### Evaluation
+Thanks to the project of (https://github.com/jiwei0921/Saliency-Evaluation-Toolbox)
+
 ### Contact
 Feel free to send e-mails to me (1558239392@qq.com).
+
+### Citation
+```
+@ARTICLE{10379651,
+  author={Hu, Xihang and Zhang, Xiaoli and Wang, Fasheng and Sun, Jing and Sun, Fuming},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Efficient Camouflaged Object Detection Network Based on Global Localization Perception and Local Guidance Refinement}, 
+  year={2024},
+  volume={34},
+  number={7},
+  pages={5452-5465},
+  keywords={Transformers;Feature extraction;Task analysis;Object detection;Location awareness;Computational modeling;Sun;Camouflaged object detection;segmentation;attention perceptron},
+  doi={10.1109/TCSVT.2023.3349209}}
+
+```
